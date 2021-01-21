@@ -1,0 +1,83 @@
+#div1 {
+    position:absolute; 
+   left: 90px;
+   top: 70px;
+   width: 200px;
+   height: 180px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div2 {
+    position:absolute; 
+   left: 250px;
+   top: 70px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div3 {
+    position:absolute; 
+   left: 410px;
+   top: 70px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div4 {
+    position:absolute; 
+   left: 90px;
+   top: 170px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div5 {
+    position:absolute; 
+   left: 250px;
+   top: 170px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div6 {
+    position:absolute; 
+   left: 410px;
+   top: 170px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div7 {
+    position:absolute; 
+   left: 90px;
+   top: 270px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div8 {
+    position:absolute; 
+   left: 250px;
+   top: 270px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
+#div9 {
+    position:absolute; 
+   left: 410px;
+   top: 270px;
+    align-items: center;
+    margin: auto;
+   margin: right;
+   width: 6em;
+} 
